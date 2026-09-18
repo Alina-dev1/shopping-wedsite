@@ -1,28 +1,47 @@
-🎵 Spotify Clone
+# Shopping Website
 
-A simple music player web app inspired by Spotify's interface, built with vanilla HTML, CSS, and JavaScript. This is a front-end practice project — not affiliated with or endorsed by Spotify.
+A simple and responsive shopping website built with **HTML, CSS, and JavaScript**.
 
-Features
-Browse albums as clickable cards, each with a cover image
-View and play songs within an album
-Play / pause, next, and previous track controls
-Live progress bar with seek (click anywhere on the bar to jump to that point in the song)
-Volume control with mute toggle
-Responsive layout with a collapsible sidebar on smaller screens
-How it works
+## ✨ Features
 
-Albums and songs are loaded dynamically by reading the repository's own file structure through the GitHub API — so adding a new album folder with an MP3/MP4 file and a cover.jpg is enough for it to show up automatically, no manual list of songs to maintain.
+* Responsive shopping interface
+* Product cards
+* Product categories
+* Navigation bar
+* Interactive buttons
+* Clean and modern layout
+* Mobile-friendly design
 
-Built with
-HTML5
-CSS3
-Vanilla JavaScript (Fetch API, Audio API)
+## 🛠️ Technologies
 
-.Live demo
-🔗 https://alina-spotify-clone.netlify.app
+* HTML5
+* CSS3
+* JavaScript
 
-Run it locally
-1.Clone this repo
-2.Open index.html in your browser (no build step or server required)
-.Note
-This project is for learning/portfolio purposes only. All song files are for demonstration and are not distributed or monetized.
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone YOUR_REPOSITORY_URL
+```
+
+Then open `index.html` in your browser.
+
+No additional dependencies are required.
+
+## 🎯 What I Practiced
+
+This project helped me practice:
+
+* Responsive web design
+* HTML structure
+* CSS styling and layouts
+* JavaScript interactions
+* Building reusable UI components
+
+## 👩‍💻 Author
+
+**Alina Mumtaz**
+
+GitHub: https://github.com/Alina-dev1
